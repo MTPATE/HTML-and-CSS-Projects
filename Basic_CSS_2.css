@@ -1,0 +1,28 @@
+p {
+color: red;
+background: yellow;
+font-weight: bold;
+text-align: left;
+text-shadow: 1px 3px;
+}
+ul {
+color: white;
+background: black;
+font-weight: bold;
+text-align: left;
+text-shadow: 1px;
+}
+ol {
+color: green;
+font-weight: bold;
+text-align: left;
+text-shadow: 2px #558ABB;
+}
+ol:hover {
+background-color: yellow;
+color: black;
+}
+ul:hover {
+	background-color: white;
+color: black;
+}
