@@ -95,7 +95,7 @@ body {
                                 ANIMATION EFFECT
   ----------------------------------------------------------------------------*/
   @keyframes race {
-    0% 100% {
+    0%, 100% {
       transform: translateY(0px);
       background-image: url("../Images/Icons/smileyface1.png")
     }
